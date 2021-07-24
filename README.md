@@ -1,4 +1,15 @@
-### Tech Skills ⚡
+Hi there 👋, I'm Tyoma
+
+
+
+I'm a student GoIT Academy
+
+👨‍💻 I like to write code
+🥁 I love to play drums
+💻 I am constantly learning new things
+
+
+### Languages and Tools: ⚡
 
 
 
