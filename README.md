@@ -1,17 +1,12 @@
-Hi there 👋, I'm Tyoma
+### Hi there 👋, I'm Tyoma
 
+## I'm a student GoIT Academy
 
-
-I'm a student GoIT Academy
-
-👨‍💻 I like to write code
-🥁 I love to play drums
-💻 I am constantly learning new things
-
+- 👨‍💻 I like to write code
+- 🥁 I love to play drums
+- 💻 I am constantly learning new things
 
 ### Languages and Tools: ⚡
-
-
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
