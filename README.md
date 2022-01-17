@@ -8,7 +8,7 @@
 
 ### Connect with me: 🔗
 
-<p style="display:flex; justify-content:flex-start;">
+<p align="center">
 <a href="https://linkedin.com/in/tyomadw" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
 
