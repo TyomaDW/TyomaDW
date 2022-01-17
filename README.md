@@ -47,6 +47,10 @@
 <img href="https://nodejs.org" alt="nodejs" title="Node.js" width="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
 </a>
 
+<a href="https://parceljs.org/" target="blank">
+<img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="parcel" title="Parcel" width="30"/>
+</a>
+
 <a href="https://www.npmjs.com/" target="blank">
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="30"/>
 </a>
@@ -57,10 +61,6 @@
 
 <a href="https://eslint.org/" target="blank">
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" title="Eslint" width="30"/>
-</a>
-
-<a href="https://parceljs.org/" target="blank">
-<img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="parcel" title="Parcel" width="30"/>
 </a>
 
 </p>
