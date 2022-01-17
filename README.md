@@ -8,11 +8,12 @@
 
 ### Connect with me: 🔗
 
-<a href="https://linkedin.com/in/tyomadw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyomadw" width="26" />
-</a>
-
 <a href="https://linkedin.com/in/tyomadw" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
+
+<a href="mailto:risendrums777@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="26" />
+
+<a href="https://t.me/tyomadw" target="blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="26" /></a>
 
 ### Languages and Tools: ⚡
 
