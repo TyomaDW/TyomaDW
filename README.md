@@ -8,37 +8,44 @@
 
 ### Connect with me: 🔗
 
-<a href="https://linkedin.com/in/tyomadw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyomadw" width="26px" />
+<a href="https://linkedin.com/in/tyomadw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyomadw" width="26" />
 </a>
 
 ### Languages and Tools: ⚡
 
 <p align="left">
-<a href="https://www.w3.org/html/"> <img alt="html5" title="HTML 5" width="30" height="30"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> </a>
+<a href="https://www.w3.org/html/" target="blank"> <img alt="html5" title="HTML 5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> </a>
 
-<a href="https://www.w3schools.com/css/">
+<a href="https://www.w3schools.com/css/" target="blank">
 <img alt="css3" title="CSS 3" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> </a>
 
-<a href="https://sass-lang.com">
+<a href="https://sass-lang.com" target="blank">
 <img alt="sass" title="SASS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img alt="javascript" title="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
-
 </p>
 
 <p align="left">
-<img alt="Visual Studio Code" width="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
+<a href="https://code.visualstudio.com/" target="blank"> <img alt="visual studio code" title="Visual Studio Code" width="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/> </a>
 
-<img alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<a href="https://www.figma.com/" target="blank">
+<img alt="figma" title="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
 
-<img alt="Chrome DevTools" width="30" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg"/>
+<a href="https://developer.chrome.com/docs/devtools/" target="blank">
+<img alt="Chrome DevTools" title="Chrome DevTools" width="30" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg"/> </a>
 
-<img alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<a href="https://git-scm.com/" target="blank">
+<img alt="git" title="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+</a>
 
-<img alt="GitHub" width="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<a href="https://github.com/" target="blank">
+<img alt="git hub" title="Git Hub" width="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+</a>
 
+<a href="https://nodejs.org" target="blank">
 <img href="https://nodejs.org" alt="nodejs" title="Node.js" width="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+</a>
 </p>
 
 <details>
