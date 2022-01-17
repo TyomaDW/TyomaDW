@@ -34,9 +34,6 @@
 <img alt="Node" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 </p>
 
-<br/>
-<br/>
-
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyomadw&langs_count=8&layout=compact" />
