@@ -8,16 +8,12 @@
 
 ### Connect with me: 🔗
 
-<h1 align="left" style="color:#335577">Connect with me:</h1>
-<p style="display:flex; justify-content:space-evenly;">
-<a href="https://linkedin.com/in/tyomadw" target="blank">
+<a align="left" href="https://linkedin.com/in/tyomadw" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
 
-<a href="mailto:risendrums777@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="26" />
+<a align="left" href="mailto:risendrums777@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="26" />
 
-<a href="https://t.me/tyomadw" target="blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="26" /></a>
-
-</p>
+<a align="left" href="https://t.me/tyomadw" target="blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="26" /></a>
 
 ### Languages and Tools: ⚡
 
