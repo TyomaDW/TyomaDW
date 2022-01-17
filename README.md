@@ -11,6 +11,9 @@
 <a href="https://linkedin.com/in/tyomadw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyomadw" width="26" />
 </a>
 
+<a href="https://linkedin.com/in/tyomadw" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
+
 ### Languages and Tools: ⚡
 
 <p align="left">
@@ -62,7 +65,6 @@
 <a href="https://eslint.org/" target="blank">
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" title="Eslint" width="30"/>
 </a>
-
 </p>
 
 <p align="left">
@@ -71,8 +73,8 @@
 <a href="https://trello.com/ru" target="blank">
 <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="Trello" width="30"/>
 </a>
-
 </p>
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyomadw&langs_count=8&layout=compact" />
