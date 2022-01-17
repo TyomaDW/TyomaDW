@@ -59,6 +59,10 @@
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" title="Eslint" width="30"/>
 </a>
 
+<a href="https://parceljs.org/" target="blank">
+<img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="parcel" title="Parcel" width="30"/>
+</a>
+
 </p>
 
 <p align="left">
