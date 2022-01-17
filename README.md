@@ -16,13 +16,13 @@
 <p align="left">
 <a href="https://www.w3.org/html/"> <img alt="html5" title="HTML 5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://www.w3schools.com/css/">
 <img alt="css3" title="CSS 3" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> </a>
 
-<a href="https://sass-lang.com" target="_blank">
+<a href="https://sass-lang.com">
 <img alt="sass" title="SASS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="javascript" title="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
 
 </p>
