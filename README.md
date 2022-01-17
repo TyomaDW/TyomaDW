@@ -27,6 +27,8 @@
 
 <img alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 
+<img alt="Chrome DevTools" width="30" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg"/>
+
 <img alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 
 <img alt="GitHub" width="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
