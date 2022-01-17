@@ -33,7 +33,7 @@
 
 <img alt="GitHub" width="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 
-<img alt="Node" width="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+<img href="https://nodejs.org" alt="nodejs" title="Node.js" width="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
 </p>
 
 <details>
