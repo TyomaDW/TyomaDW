@@ -47,9 +47,14 @@
 <img href="https://nodejs.org" alt="nodejs" title="Node.js" width="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
 </a>
 
-<a href="https://www.npmjs.com/" target="_blank">
+<a href="https://www.npmjs.com/" target="blank">
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="30"/>
 </a>
+
+<a href="https://postman.com" target="blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="30"/>
+</a>
+
 </p>
 
 <details>
