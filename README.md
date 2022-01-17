@@ -59,14 +59,15 @@
 <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" title="Eslint" width="30"/>
 </a>
 
-<a href="https://trello.com/ru" target="blank">
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="Trello" width="30"/>
-</a>
-
 </p>
 
 <p align="left">
 <a href="https://slack.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="30"/> </a>
+
+<a href="https://trello.com/ru" target="blank">
+<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="Trello" width="30"/>
+</a>
+
 </p>
 <details>
   <summary>:zap: Statistics:</summary>
