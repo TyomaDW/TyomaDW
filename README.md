@@ -8,7 +8,7 @@
 
 ### Connect with me: 🔗
 
-<h3 align="left" style="color:#335577">Connect with me:</h3>
+<h1 align="left" style="color:#335577">Connect with me:</h1>
 <p style="display:flex; justify-content:space-evenly;">
 <a href="https://linkedin.com/in/tyomadw" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
