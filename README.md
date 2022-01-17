@@ -22,15 +22,17 @@
 <img alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<p align="left">
+<img alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img alt="GitHub" width="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 
-<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img alt="Node" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+</p>
 
 <br/>
 <br/>
