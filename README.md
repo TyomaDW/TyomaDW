@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Tyoma
-
-## I'm a student GoIT Academy
+## Hi there 👋, I'm Tyoma
 
 - 👨‍💻 I like to write code
 - 🥁 I love to play drums
