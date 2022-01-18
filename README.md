@@ -75,10 +75,8 @@
 </a>
 </p>
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyomadw&langs_count=8&layout=compact&theme=gruvbox" />
+### Statistics:
+
+   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyomadw&langs_count=8&layout=compact&theme=gruvbox" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tyomadw&show_icons=true&theme=gruvbox" />
-    
-</details>
