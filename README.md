@@ -41,10 +41,6 @@
 <a href="https://axios-http.com" target="blank">
 <img src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png" alt="axios" title="Axios" width="30" height="30"/>
 </a>
-
-<a href="https://www.json.org/json-ru.html" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="JSON" width="30" height="30"/>
-</a>
 </p>
 
 <p align="left">
