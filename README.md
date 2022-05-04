@@ -31,7 +31,7 @@
 <a href="https://reactjs.org/" target="blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="React" width="30" height="30"/> </a>
 
 <a href="https://redux.js.org" target="blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="30" height="30"/>
 </a>
 
 <a href="https://reactrouter.com" target="blank">
