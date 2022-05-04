@@ -34,7 +34,7 @@
 <img alt="figma" title="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
 
 <a href="https://developer.chrome.com/docs/devtools/" target="blank">
-<img alt="Chrome DevTools" title="Chrome DevTools" width="30" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg"/> </a>
+<img alt="Chrome DevTools" title="Chrome DevTools" width="30" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg"/> </a>
 
 <a href="https://git-scm.com/" target="blank">
 <img alt="git" title="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
