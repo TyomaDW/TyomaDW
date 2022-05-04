@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://reactrouter.com" target="blank">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/react-router.svg" alt="react router" title="React Router" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/react-router.svg" alt="react router" title="React Router" width="30" height="30"/>
 </a>
 
 <a href="https://axios-http.com" target="blank">
@@ -45,7 +45,6 @@
 <a href="https://www.json.org/json-ru.html" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="JSON" width="30" height="30"/>
 </a>
-
 </p>
 
 <p align="left">
